@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    background-color: red;
+    color: lime;
+    padding: 4px;
+}
+
+img {
+    height: 500px;
+}
+
+#image:hover{
+    height: 1000px;
+}
+
+#button {
+    background-color: #fff53d;
+    color: yellow;
+    font-size: 50px;
+}
+
+p {
+    color: hotpink;
+    font-size: 50px;
+}
